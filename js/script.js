@@ -7,7 +7,7 @@ function getParameterByName(name, url = window.location.href) {
   return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 // document.title = getParameterByName('to');
-document.querySelector('#to').innerHTML = getParameterByName('to');
+document.querySelector('#to').innerHTML = 'To : ' + getParameterByName('to');
 
 $(window).on("load",function(){
   $(".loader-wrapper").fadeOut("slow");
