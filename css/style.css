@@ -360,7 +360,7 @@ img{
 
 .ornamen2 img{
   width: 95vw;
-  height: 150px;
+  height: 21vh;
 }
 
 .right-flower{
@@ -540,7 +540,7 @@ font-size: 40px;
   text-align: center;
   flex-direction: column;
   width: 100vw;
-  height: 30vh;
+  height: 21vh;
 }
 
 .count-down p{
