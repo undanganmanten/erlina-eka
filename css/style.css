@@ -420,7 +420,7 @@ img{
 }
 
 .bride-name, .groom-name{
-  width: 100vw;
+  width: 93vw;
 }
 
 .bride-name img, .groom-name img{
@@ -434,7 +434,7 @@ img{
 }
 
 .groom-name img{
-  margin-right: 20px;
+  margin-right: 0px;
 }
 
 .groom-name{
