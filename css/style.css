@@ -240,8 +240,8 @@ body{
 }
 
 #popup .title img{
-  width: 130px;
-  margin-bottom: 80px;
+  width: 150px;
+  margin-bottom: 100px;
 }
 
 .title h3{
@@ -354,8 +354,9 @@ img{
   display: flex;
   justify-content: center;
   position: absolute;
-  top: 50px;
+  top: 0;
   width: 100vw;
+  /* background-color: aquamarine; */
 }
 
 .ornamen2 img{
