@@ -531,6 +531,8 @@ font-size: 40px;
 #counting{
   width: 100vw;
   height: max-content;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .count-down{
